@@ -1,0 +1,3 @@
+[submodule "NJParcelTools"]
+	path = NJParcelTools
+	url = https://github.com/johnjreiser/NJParcelTools.git

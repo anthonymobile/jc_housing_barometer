@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83be67f1-fd28-4c5d-a9ff-d9c47ed0743e" name="Default" comment="stopped work -- waiting for site access" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/housing_barometer$scrapy.coverage" NAME="scrapy Coverage Results" MODIFIED="1545091883518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/permit_scraper" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/PermitDB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <folding>
+                <element signature="e#25#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/PermitScraper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1045">
+              <caret line="51" column="72" selection-start-line="51" selection-start-column="72" selection-end-line="51" selection-end-column="72" />
+              <folding>
+                <element signature="e#24#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/confg.py" />
+        <option value="$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/config.py" />
+        <option value="$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/Permit.py" />
+        <option value="$PROJECT_DIR$/permit_scraper/permit_scraper/pipelines.py" />
+        <option value="$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/config_sample.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/PermitScraper.py" />
+        <option value="$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/PermitDB.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="housing_barometer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="housing_barometer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="housing_barometer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="housing_barometer" type="462c0819:PsiDirectoryNode" />
+              <item name="permit_scraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="housing_barometer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="housing_barometer" type="462c0819:PsiDirectoryNode" />
+              <item name="permit_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="permit_scraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="housing_barometer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="housing_barometer" type="462c0819:PsiDirectoryNode" />
+              <item name="permit_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="permit_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="scrapy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="housing_barometer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/housing_barometer/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/permit_scraper" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/anaconda3/envs/housing_barometer/bin/scrapy" />
+      <option name="PARAMETERS" value="crawl PermitScraper" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83be67f1-fd28-4c5d-a9ff-d9c47ed0743e" name="Default" comment="" />
+      <created>1524756798407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524756798407</updated>
+      <workItem from="1544844389084" duration="512000" />
+      <workItem from="1544889902366" duration="15000" />
+      <workItem from="1544913596847" duration="14353000" />
+      <workItem from="1545009119484" duration="6059000" />
+      <workItem from="1545090191370" duration="977000" />
+      <workItem from="1545091442327" duration="720000" />
+    </task>
+    <task id="LOCAL-00001" summary="scraper crawling down to permit detail ok">
+      <created>1544931819206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544931819206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="WIP">
+      <created>1544934887887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544934887887</updated>
+    </task>
+    <task id="LOCAL-00003" summary="debugging xpath to extract permit details">
+      <created>1545011004635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545011004635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="WIP 85% done framing and debugging">
+      <created>1545015424711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545015424711</updated>
+    </task>
+    <task id="LOCAL-00005" summary="left todo- need to debug 1) permit detail field matching loop 2) database class field mapping">
+      <created>1545015809261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545015809262</updated>
+    </task>
+    <task id="LOCAL-00006" summary="working crawl down into permit details -- need to do JSON for related permits, finalize db table structure">
+      <created>1545017047256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545017047256</updated>
+    </task>
+    <task id="LOCAL-00007" summary="stopped work -- waiting for site access">
+      <created>1545092152624</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545092152625</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22636000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18884121" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32866243" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.48945615" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.5116537" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" x="0" y="404" width="1440" height="115" id="Run" order="5" weight="0.3040057" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added permit scraper first draft" />
+    <MESSAGE value="scraper crawling down to permit detail ok" />
+    <MESSAGE value="WIP" />
+    <MESSAGE value="debugging xpath to extract permit details" />
+    <MESSAGE value="WIP 85% done framing and debugging" />
+    <MESSAGE value="left todo- need to debug 1) permit detail field matching loop 2) database class field mapping" />
+    <MESSAGE value="working crawl down into permit details -- need to do JSON for related permits, finalize db table structure" />
+    <MESSAGE value="stopped work -- waiting for site access" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped work -- waiting for site access" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/confg.py" />
+    <entry file="file://$PROJECT_DIR$/../buswatcher/reportcard/route_config.py" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1162" />
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//home/anthony/Dropbox/Desktop/code/housing_barometer/permit_scraper">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/permit_scraper</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="743.0" y="423.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/sqlalchemy/sql/schema.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/scrapy/spidermiddlewares/depth.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/scrapy/spidermiddlewares/urllength.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/scrapy/spidermiddlewares/referer.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/scrapy/spidermiddlewares/offsite.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/twisted/internet/task.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/twisted/internet/base.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/scrapy/crawler.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/scrapy/commands/crawl.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/scrapy/cmdline.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/bin/scrapy" />
+    <entry file="file://$PROJECT_DIR$/permit_scraper/permit_scraper/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/housing_barometer/lib/python3.6/site-packages/scrapy/utils/defer.py" />
+    <entry file="file://$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/config_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="551">
+            <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/PermitScraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="51" column="72" selection-start-line="51" selection-start-column="72" selection-end-line="51" selection-end-column="72" />
+          <folding>
+            <element signature="e#24#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/permit_scraper/permit_scraper/spiders/PermitDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="e#25#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
